@@ -7,5 +7,5 @@ Proyecto consistente en una aplicacion en java que permite llevar el control y r
 Puedes probar el codigo de la siguiente manera 
 
 ```bash
-git clone https://github.com/arielhernandezcl/AppRegistroPrevencionRiesgos-Sprint4.git)https://github.com/arielhernandezcl/AppRegistroPrevencionRiesgos-Sprint4.git
+git clone https://github.com/arielhernandezcl/AppRegistroPrevencionRiesgos-Sprint4.git
 cd tu-proyecto
